@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gyrevik
-- 👀 I’m interested in ... React, Machine Learning ...
-- 🌱 I’m currently learning ... GraphQL
+- 👀 I’m interested in ... React, GraphQL ...
+- 🌱 I’m currently learning ... databricks
 - 💞️ I’m looking to collaborate on ... Nothing currently
 - 📫 How to reach me ... alex.smotritsky@gmail.com
 
